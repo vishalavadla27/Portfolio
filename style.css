@@ -267,8 +267,11 @@ body.dark-mode nav ul li a:hover {
 body.dark-mode #home span {
     color: #4da6ff;
 }
-body.dark-mode a {
+body.dark-mode #home a {
     color: white;
+}
+body.dark-mode #home h2 {
+    color:#ffffffd5;
 }
 body.dark-mode .btn,
 body.dark-mode button {
